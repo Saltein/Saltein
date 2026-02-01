@@ -13,6 +13,3 @@ Frontend-разработчик | React / TypeScript / Redux | Fullstack опы�
 - [ZaprUI](https://github.com/Saltein/ZaprUI) - Интерфейс для удобново взаимодействия с .bat файлами zapret-discord-youtube by Flowseal
 - [TTSChat](https://github.com/Saltein/tts-chat) - Веб-приложение для озвучки чата с youtube и twitch
 - [Dating App](https://github.com/yourusername/dating-app) — Полнофункциональное приложение знакомств с чатами и лайками.
-
-## 📈 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
