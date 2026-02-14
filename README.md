@@ -5,6 +5,22 @@ Frontend-разработчик | React / TypeScript / Redux | Fullstack опы�
 🚀 Работаю над веб-приложениями, которые решают реальные задачи  
 
 ## 🛠 Технологии
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,redux,javascript,typescript,scss,?theme=dark"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,postgresql,?theme=dark"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=electron,git,docker,vscode,?theme=dark"/>
+  </a>
+</p>
+
 - **Frontend:** React, TypeScript, Redux, SCSS
 - **Backend:** Node.js, Express, PostgreSQL
 - **Desktop:** Electron
