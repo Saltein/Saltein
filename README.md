@@ -27,7 +27,8 @@ Frontend-разработчик | React / React Native / TypeScript / Redux | Fu
 - **Инструменты:** Git, Docker, VS Code
 
 ## 🔭 Проекты
-- [Weather app](https://github.com/Saltein/weather-app) - Мобильное приложение погоды на React Native с возможностью выбрать город и видеть прогноз по часам и по дням на 2 недели вперед
+- [Notes App](https://github.com/Saltein/notes-app) - Мобильное приложение для создания и публикации заметок с авторизацией, публичными заметками и поиском. Реализовано на React Native + Expo с Redux Toolkit и RTK Query
+- [Weather App](https://github.com/Saltein/weather-app) - Мобильное приложение погоды на React Native с возможностью выбрать город и видеть прогноз по часам и по дням на 2 недели вперед
 - [Multi Uploader](https://github.com/Saltein/multi-uploader) - десктопное приложение, которое будет позволять автоматически загружать короткие видео на несколько платформ (YouTube Shorts, TikTok, Instagram и др.).
 - [ZaprUI](https://github.com/Saltein/ZaprUI) - Интерфейс для удобново взаимодействия с .bat файлами zapret-discord-youtube by Flowseal
 - [TTSChat](https://github.com/Saltein/tts-chat) - Веб-приложение для озвучки чата с youtube и twitch
