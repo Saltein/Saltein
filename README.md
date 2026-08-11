@@ -27,7 +27,7 @@ Frontend-разработчик | React / React Native / TypeScript / Redux | Fu
 - **Инструменты:** Git, Docker, VS Code
 
 ## 🔭 Проекты
-- [TTS Chat Desktop](https://github.com/Saltein/tts-electron-version) - это десктопное приложение на базе Electron, которое озвучивает сообщения из стриминговых чатов (Twitch, YouTube, VK Live) с использованием Text-to-Speech
+- [TTS Chat Desktop](https://github.com/Saltein/tts-chat-desktop) - это десктопное приложение на базе Electron, которое озвучивает сообщения из стриминговых чатов (Twitch, YouTube, VK Live) с использованием Text-to-Speech
 - [Notes App](https://github.com/Saltein/notes-app) - Мобильное приложение для создания и публикации заметок с авторизацией, публичными заметками и поиском. Реализовано на React Native + Expo с Redux Toolkit и RTK Query
 - [Weather App](https://github.com/Saltein/weather-app) - Мобильное приложение погоды на React Native с возможностью выбрать город и видеть прогноз по часам и по дням на 2 недели вперед
 - [Multi Uploader](https://github.com/Saltein/multi-uploader) - десктопное приложение, которое будет позволять автоматически загружать короткие видео на несколько платформ (YouTube Shorts, TikTok, Instagram и др.).
